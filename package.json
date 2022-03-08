@@ -1,5 +1,5 @@
 {
-  "name": "@cnpm/ffmpeg-static",
+  "name": "cffmpeg-static",
   "version": "5.0.0",
   "description": "ffmpeg static binaries for Mac OSX and Linux and Windows",
   "main": "index.js",
